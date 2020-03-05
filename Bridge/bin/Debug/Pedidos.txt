@@ -1,0 +1,6 @@
+Ticul,Motul,80,Estafeta,Terrestre,26-01-2020 21:00:00
+China,Cancún,446400,DHL,Aéreo,23-01-2020 08:00:00
+Mérida,Cozumel,400,DHL,Aéreo,26-01-2020 22:50:00
+Mérida,Cozumel,400,Fedex,Marítimo,26-01-2020 22:50:00
+Mérida,Cozumel,400,Fedex,Marítimo,26-01-2020 22:50:00
+Mérida,Cozumel,400,Fedex,Aéreo,26-01-2020 22:50:00
